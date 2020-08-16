@@ -1,0 +1,79 @@
+[
+    { "id": "1","type": "heavy","country": "USA","name": "T29",
+      "ammunition": ["AP", "APCR", "HE"]
+      
+    },
+    {
+      "id": "2",
+      "type": "heavy",
+      "country": "USA",
+      "name": "T57 Heavy Tank",
+      "ammunition": ["AP", "HEAT", "HE"]
+      
+    },
+    {
+      "id": "3",
+      "type": "medium",
+      "country": "USA",
+      "name": "M48A5 Patton",
+      "ammunition": ["APCR", "HEAT", "HE"]
+      
+    },
+    {
+      "id": "4",
+      "type": "medium",
+      "country": "USSR",
+      "name": "Object 140",
+      "ammunition": ["APCR", "HEAT", "HE"]
+     
+    },
+    {
+      "id": "5",
+      "type": "medium",
+      "country": "UK",
+      "name": "Cromwell",
+      "ammunition": ["AP", "APCR", "HE"]
+      
+    },
+    {
+      "id": "6",
+      "type": "light",
+      "country": "USSR",
+      "name": "T-54 ltwt.",
+      "ammunition": ["AP", "APCR", "HE"]
+      
+    },
+    {
+      "id": "7",
+      "type": "light",
+      "country": "USA",
+      "name": "T49",
+      "ammunition": ["APCR", "HEAT", "HE"]
+      
+    },
+    {
+      "id": "8",
+      "type": "heavy",
+      "country": "USSR",
+      "name": "IS-7",
+      "ammunition": ["AP", "APCR", "HE"]
+      
+    },
+    {
+      "id": "9",
+      "type": "heavy",
+      "country": "UK",
+      "name": "Super Conqueror",
+      "ammunition": ["AP", "APCR", "HE"]
+      
+    },
+    {
+      "id": "10",
+      "type": "medium",
+      "country": "USSR",
+      "name": "Object 907",
+      "ammunition": ["APCR", "HEAT", "HE"]
+      
+    }
+  ]
+  
